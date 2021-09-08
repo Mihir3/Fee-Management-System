@@ -1,1 +1,1 @@
-# Fee-Management-System
+# Fees-Management-System (Java Swing Application)
